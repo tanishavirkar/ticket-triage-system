@@ -1,0 +1,89 @@
+{
+  "evaluation_timestamp": "2026-07-15T22:10:24.414978+00:00",
+  "total_test_cases": 10,
+  "passed_test_cases": 10,
+  "failed_test_cases": 0,
+  "average_quality_score": 1.0,
+  "test_cases": [
+    {
+      "id": "T1-CASE-1",
+      "task": "Task 1 (Triage)",
+      "name": "SSO Authentication Bug",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T1-CASE-2",
+      "task": "Task 1 (Triage)",
+      "name": "Standard Billing Inquiry",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T1-CASE-3",
+      "task": "Task 1 (Triage)",
+      "name": "Data Loss Critical Outage",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T1-CASE-4",
+      "task": "Task 1 (Triage)",
+      "name": "Integration Setup How-To",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T1-CASE-5",
+      "task": "Task 1 (Triage)",
+      "name": "Adversarial: Extremely Ambiguous Ticket",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T2-CASE-1",
+      "task": "Task 2 (TAM Health)",
+      "name": "High-Risk Enterprise Account",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T2-CASE-2",
+      "task": "Task 2 (TAM Health)",
+      "name": "Healthy Growing Account",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T2-CASE-3",
+      "task": "Task 2 (TAM Health)",
+      "name": "Inactive Usage Account",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T2-CASE-4",
+      "task": "Task 2 (TAM Health)",
+      "name": "Stable Healthy Account",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Passed all quality criteria."
+    },
+    {
+      "id": "T2-CASE-5",
+      "task": "Task 2 (TAM Health)",
+      "name": "Adversarial: Missing/Corrupted Account ID",
+      "status": "PASS",
+      "quality_score": 1.0,
+      "reason": "Expected HTTP 404, got 404."
+    }
+  ]
+}
